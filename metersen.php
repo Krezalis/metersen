@@ -41,8 +41,14 @@ function loe_webchat($persid,$count){
   };
 };
 
-function loe_info($meter,$count,$email,$pass){
-  //send meters https://info.loe.lviv.ua/
+function EnergySuite($meter,$count,$email,$pass){
+  //send meters to EnergySuite.Online by https://www.extracode.com.ua/
+  /* https://info.loe.lviv.ua/ - Львівобленерго
+     https://my.oe.if.ua/ - Прикарпаттяобленерго
+     https://esozoe.azurewebsites.net/ - ПАТ Запоріжжяобленерго
+     https://my.toe.com.ua/ - ВАТ Тернопільобленерго
+     
+  */ 
   //TBD
 };
 
