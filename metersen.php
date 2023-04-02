@@ -2,8 +2,7 @@
 
 /*
 ################################
-# Yuriy Rudyy info@uaid.net.ua #
-#     https://blog.uaid.net.ua #
+#      info@uaid.net.ua        #
 ################################
 */
 
